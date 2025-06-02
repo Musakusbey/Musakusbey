@@ -38,10 +38,6 @@ I specialize in building systems from scratch — from UI to database, from auth
 - GitHub Actions, GitLab CI/CD  
 - AWS (EC2, S3, Lambda – Basic)
 
-### 🤖 **Artificial Intelligence & Data Engineering**
-- Langchain, LlamIndex, Qdrant
-- Azure AI Search, OpenAI Integration
-- Python, FastAPI, Power BI (for analytics and dashboards)
 
 ### 🧪 **Testing & Quality**
 - Cypress, Jest, React Testing Library, Selenium
