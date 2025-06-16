@@ -2,15 +2,7 @@
 
 **Full Stack Developer | Cloud-Native Architect | AI & API Enthusiast**
 
----
-
-## 🌟 About Me
-
-I’m a passionate developer with **3 years of frontend** and **2 years of backend** development experience, actively delivering scalable, secure and performant full-stack solutions.
-
-I specialize in building systems from scratch — from UI to database, from authentication flows to AI-powered dashboards. My key strengths are adaptability, clean architecture, and solving real problems with code.
-
----
+----
 
 ## 🛠️ My Technical Skills
 
