@@ -1,1 +1,1 @@
-Full-stack developer with 2+ years’ experience in frontend (React) and backend (Node.js). Skilled in cloud-native systems (Azure, Docker, Kubernetes), secure APIs, and AI-driven dashboards. Passionate about scalable, clean, and impactful solutions.
+I have been deeply involved in software development for 5+ years, working across frontend, backend, and DevOps. Passionate about building scalable and impactful solutions, with a strong focus on clean code and continuous improvement.
