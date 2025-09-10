@@ -1,1 +1,1 @@
-I have been deeply involved in software development for 5+ years, working across frontend, backend, and DevOps. Passionate about building scalable and impactful solutions, with a strong focus on clean code and continuous improvement.
+I am deeply involved in software development, working across frontend, backend, and DevOps. Passionate about building scalable and impactful solutions, with a strong focus on clean code and continuous improvement.
